@@ -1,4 +1,7 @@
-# codename-jerry
+# codename-jerry 
+
+artificial intelligence assisted os design for dedicated gods of the future and, for those with special needs and the clownz. ;)
+
 The baseline project.
 
 Below is my response to your query: "Include in baseline.txt instructions for the user to manually create the required directory structure for all required files. Put all required full file code into baseline.txt. Instruct user how to copy, paste and create the required files using a txt editor. Finally, instruct user where to install the required files, with regards to the required directory structure, in order to build the project, preferably from scratch. Be as specific as possible, so that even a novice can accomplish the task."
